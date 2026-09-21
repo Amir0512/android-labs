@@ -10,3 +10,11 @@
 captures/
 .externalNativeBuild/
 .cxx/
+.idea/
+**/.idea/
+build/
+**/build/
+.gradle/
+**/.gradle/
+local.properties
+**/local.properties
