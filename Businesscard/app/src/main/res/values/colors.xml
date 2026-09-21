@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_background">#D2E8D4</color>
+    <color name="logo_background">#073042</color>
+    <color name="brand_green">#006D3B</color>
+    <color name="contact_text">#2E3E34</color>
+</resources>
